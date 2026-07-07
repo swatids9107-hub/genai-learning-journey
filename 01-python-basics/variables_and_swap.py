@@ -1,4 +1,4 @@
-print("Hello ChatGPT")
+a=print("Hello ChatGPT")
 
 a = 5
 b = 3
